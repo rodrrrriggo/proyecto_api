@@ -38,9 +38,9 @@ const getVideojuegoById = (req = request, res = response) =>{
 
         }else{
             return res.json({
-              ok:true,
+              ok_true,
               statusCode:404,
-              msg:"Id erroneo; No hay juegos registrados con ese ID, intenta nuevamente."
+              msg:"Id erroneo; No hay juegos registrados con ese ID, intenta nuevamente"
             
 
         });

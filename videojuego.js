@@ -3,33 +3,33 @@ const videojuego = [
 
         "id":1,
         "nombre":"star wars: jfo",
-        "precio": 12.000,
+        "precio": 12.554,
         "desarrollador": "respawn"
 
     },
     {
         "id":2,
         "nombre":"red dead redemption",
-        "precio": 11.000,
+        "precio": 11.112,
         "desarrollador":"rockstar games"
     },
     {
         "id":3,
         "nombre":"sot: tomb raider",
-        "precio": 6.000,
+        "precio": 6.666,
         "desarrollador":"square enix"
     },
     {
         "id":4,
         "nombre":"grand theft auto v",
-        "precio": 10.000,
+        "precio": 10.222,
         "desarrollador":"rockstar games"
     },
     {
 
         "id":5,
         "nombre":"need for speed: heat deluxe edition",
-        "precio": 8.000,
+        "precio": 8.555,
         "desarrollador": "ghost"
 
     },
@@ -37,7 +37,7 @@ const videojuego = [
 
         "id":6,
         "nombre":"eafc 24",
-        "precio": 48.000,
+        "precio": 48.888,
         "desarrollador": "electronics arts"
 
     },
@@ -45,7 +45,7 @@ const videojuego = [
 
         "id":7,
         "nombre":"multi pack - dk, mb ods, smb dlx",
-        "precio": 42.500,
+        "precio": 42.555,
         "desarrollador": "nintendo"
 
     },
@@ -53,7 +53,7 @@ const videojuego = [
 
         "id":8,
         "nombre":"minecraft",
-        "precio": 12.990,
+        "precio": 12.999,
         "desarrollador": "mojang"
 
     },
@@ -61,7 +61,7 @@ const videojuego = [
 
         "id":9,
         "nombre":"animal crossing dlc new horizons",
-        "precio": 23.500,
+        "precio": 23.555,
         "desarrollador": "nintendo"
 
     },
@@ -69,7 +69,7 @@ const videojuego = [
 
         "id":10,
         "nombre":"zelda botw",
-        "precio": 52.500,
+        "precio": 52.555,
         "desarrollador": "nintendo"
 
     },
@@ -77,7 +77,7 @@ const videojuego = [
 
         "id":11,
         "nombre":"gta the trylogy: definitive edition",
-        "precio": 15.600,
+        "precio": 15.666,
         "desarrollador": "rockstar games"
 
     },
@@ -85,7 +85,7 @@ const videojuego = [
 
         "id":12,
         "nombre":"db: xenoverse 2",
-        "precio": 23.500,
+        "precio": 23.555,
         "desarrollador": "nintendo"
 
     },
@@ -93,7 +93,7 @@ const videojuego = [
 
         "id":13,
         "nombre":"uncharted collection: remastered",
-        "precio": 32.000,
+        "precio": 32.787,
         "desarrollador": "scs software"
 
     },
@@ -101,7 +101,7 @@ const videojuego = [
 
         "id":14,
         "nombre":"cyberpunk 2077",
-        "precio": 32.000,
+        "precio": 32.333,
         "desarrollador": "cd project red"
 
     },
@@ -109,7 +109,7 @@ const videojuego = [
 
         "id":15,
         "nombre":"call of duty: modern warfare 3 2023",
-        "precio": 47.650,
+        "precio": 47.655,
         "desarrollador": "sledghamer games"
 
     },
@@ -117,7 +117,7 @@ const videojuego = [
 
         "id":16,
         "nombre":"gran turismo 7",
-        "precio": 52.500,
+        "precio": 52.555,
         "desarrollador": "playstation studios"
 
     },
@@ -125,7 +125,7 @@ const videojuego = [
 
         "id":17,
         "nombre":"god of war ragnarok",
-        "precio": 25.600,
+        "precio": 25.666,
         "desarrollador": "santa monica studio"
 
     },
@@ -133,7 +133,7 @@ const videojuego = [
 
         "id":18,
         "nombre":"ghost of tsushima: directors cut",
-        "precio": 38.500,
+        "precio": 38.555,
         "desarrollador": "playstation studios"
 
     },
